@@ -11,6 +11,10 @@
       {
         "source": "/politica",
         "destination": "/politica.html"
+      },
+      {
+        "source": "/portal",
+        "destination": "/portal.html"
       }
     ]
   }
